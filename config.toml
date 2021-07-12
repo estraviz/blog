@@ -1,0 +1,4 @@
+baseURL = "https://estraviz.github.io/"
+languageCode = "es"
+title = "Data Ex Libris - Blog de Javier Estraviz"
+theme = "Zzo"

@@ -1,0 +1,35 @@
+[[main]]
+  identifier = "archive"
+  name = "🗄️ &nbsp;Archive"
+  url = "archive"
+  weight = 1
+
+[[main]]
+  identifier = "posts"
+  name = "📝 &nbsp;Posts"
+  url = "posts"
+  weight = 2
+
+[[main]]
+  parent = "posts"
+  name = "🗂️ &nbsp;Categories"
+  url = "categories"
+  weight = 3
+
+[[main]]
+  parent = "posts"
+  name = "🏷️ &nbsp;Tags"
+  url = "tags"
+  weight = 4
+
+[[main]]
+  identifier = "books"
+  name = "📚 &nbsp;Books"
+  url = "books"
+  weight = 5
+
+[[main]]
+  identifier = "about"
+  name = "ℹ️ &nbsp;About"
+  url = "about"
+  weight = 6
