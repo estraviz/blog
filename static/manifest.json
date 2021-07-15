@@ -1,6 +1,6 @@
 {
   "manifest_version": 2,
-  "name": "Data Ex Libris",
+  "name": "The Data Is Flat",
   "short_name": "estraviz",
   "version": "1.0.0",
   "default_locale": "es",
@@ -27,7 +27,7 @@
   "background": {
     "persistent": false
   },
-  "start_url": "https://estraviz.github.io/",
+  "start_url": "https://thedataisflat.com/",
   "theme_color": "#fff",
   "background_color": "#fff",
   "display": "standalone"
