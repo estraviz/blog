@@ -1,4 +1,4 @@
-baseURL = "https://thedataisflat.netlify.app/" # The URL of your site.
+baseURL = "https://www.thedataisflat.com/" # The URL of your site.
 title = "The Data Is Flat" # Title of your site
 theme = "zzo" # Name of Zzo theme folder in `themes/`.
 
