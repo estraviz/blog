@@ -1,4 +1,4 @@
-baseURL = "https://estraviz.github.io/"
+baseURL = "https://www.thedataisflat.com/"
 languageCode = "es"
-title = "Data Ex Libris - Blog de Javier Estraviz"
+title = "The Data Is Flat"
 theme = "Zzo"
