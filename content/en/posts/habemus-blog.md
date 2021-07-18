@@ -31,4 +31,4 @@ I am not sure if I will make the blog fully bilingual or only for certain _entra
 _Greetings._
 
 
-[^1]: [Rachel Thomas](https://rachel.fast.ai/) is co-fundadora of [fast.ai](https://www.fast.ai/), a place of reference for [Deep Learning](https://en.wikipedia.org/wiki/Deep_learning), as well as a professor at the [USF Data Institute](https://www.usfca.edu/data-institute).
+[^1]: [Rachel Thomas](https://rachel.fast.ai/) is co-founder of [fast.ai](https://www.fast.ai/), a place of reference for [Deep Learning](https://en.wikipedia.org/wiki/Deep_learning), as well as a professor at the [USF Data Institute](https://www.usfca.edu/data-institute).
