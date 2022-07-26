@@ -4,7 +4,7 @@ title = "TheDataIsFlat.com"
 theme = "cactus"
 copyright = "" # cactus will use title if copyright is not set
 disqusShortname = "example" # Used when comments is enabled. Cactus will use site title if not set
-# googleAnalytics = "UA-1234-5"
+googleAnalytics = "G-SVEL7H3GGL"
 
 
 # summaryLength = 2
@@ -55,7 +55,7 @@ weight = 5
 
   colortheme = "dark" # dark, light, white, or classic
   rss = true # generate rss feed. default value is false
-  googleAnalyticsAsync = true # use asynchronous tracking. Synchronous tracking by default
+  googleAnalyticsAsync = false # use asynchronous tracking. Synchronous tracking by default
   showAllPostsArchive = false # default
 
   # Home page settings
