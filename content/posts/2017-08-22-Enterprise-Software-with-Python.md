@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Enterprise Software with Python"
-description: "A course and a talk about Python in the Entreprise"
+description: "A course and a talk about Python in the Entreprise."
 category: Backend Development
 comments: true
 tags: [Python, Mahmoud Hashemi, PyBay]

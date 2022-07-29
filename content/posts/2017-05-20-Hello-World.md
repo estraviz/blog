@@ -2,7 +2,7 @@
 title: "Hello World!"
 description: "¿De qué va esto? / What's this all about?"
 categories: [Thoughts]
-comments: true
+comments: false
 date: 2017-05-20
 last_modified_at: 2017-08-05
 ---

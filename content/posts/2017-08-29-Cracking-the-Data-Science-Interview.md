@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Cracking the Data Science Interview"
-description: "A good introduction to prepare for DS Interviews"
+description: "A good introduction to prepare for DS Interviews."
 categories: [Tech]
 comments: true
 tags: [Data Science, Jonathan Dinu, Katie Kent]

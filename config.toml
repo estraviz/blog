@@ -26,8 +26,8 @@ url = "/posts"
 weight = 3
 
 [[menu.main]]
-name = "Categories"
-url = "/categories"
+name = "Book Reviews"
+url = "/categories/book-reviews"
 weight = 4
 
 [[menu.main]]

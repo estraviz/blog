@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "Hello World! (Revisited)"
-description: "I could say this is the official Hello World entry"
+description: "I could say this is the official Hello World entry."
 categories: [Thoughts]
-comments: true
+comments: false
 tags: []
 date: 2017-08-10
 ---

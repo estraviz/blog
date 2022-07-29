@@ -1,6 +1,6 @@
 ---
 title: "Domain-Driven Design Distilled"
-description: "My first course completed through Safari Books Online"
+description: "My first course completed through Safari Books Online."
 categories: [Tech]
 tags: [Domain-Driven Design, Eric Evans, Vaughn Vernon]
 date: 2017-07-07
