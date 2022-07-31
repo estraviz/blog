@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Becoming a better programmer"
-description: "A manual for people who care about the code"
+description: "A manual for people who care about the code."
 categories: [Tech]
 tags: [Dunning-Kruger effect, Dreyfus model, Peter Goodliffe, Malcolm Gladwell]
 comments: true

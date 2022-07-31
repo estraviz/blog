@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Microservices, a very brief introduction"
-description: "An introductory talk about microservices, by Martin Fowler"
+description: "An introductory talk about microservices, by Martin Fowler."
 categories: [Tech]
 comments: true
 tags: [Microservices, GOTO, ThoughtWorks, Martin Fowler, Big Ball of Mud]

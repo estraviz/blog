@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "How to become a Data Scientist in 6 months"
-description: "An interesting personal experience of professional reorientation"
+description: "An interesting personal experience of professional reorientation."
 categories: [Tech]
 tags: [Data Science, PyData, Tetiana Ivanova]
 comments: true

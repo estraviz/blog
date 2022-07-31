@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "🌟 Data Science Roadmap"
-description: "A personal initiative to increment my knowledge in Data Science"
+description: "A personal initiative to increment my knowledge in Data Science."
 categories: [Tech]
 comments: true
 tags: [Data Science]

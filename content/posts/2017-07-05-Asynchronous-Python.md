@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Asynchronous Python for the Complete Beginner"
-description: "Introductory talk on asynchronous programming in Python"
+description: "Introductory talk on asynchronous programming in Python."
 categories: [Tech]
 tags: [Asyncio, Miguel Grinberg, PyCon, Python]
 comments: true

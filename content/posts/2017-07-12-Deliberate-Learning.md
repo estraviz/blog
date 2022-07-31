@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Deliberate Learning"
-description: "About dojos, katas, koans and learning"
+description: "About dojos, katas, koans and learning."
 categories: [Tech]
 tags: [Dan North, Zed Shaw, Learning]
 comments: true

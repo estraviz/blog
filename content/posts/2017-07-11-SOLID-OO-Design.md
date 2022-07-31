@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "SOLID Object-Oriented Design"
-description: "Reflecting on SOLID principles"
+description: "Reflecting on SOLID principles."
 categories: [Tech]
 tags: [Object-Oriented Design, Sandi Metz, SOLID]
 comments: true
