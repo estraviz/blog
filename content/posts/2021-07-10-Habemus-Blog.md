@@ -1,5 +1,5 @@
 ---
-title: "🎉 Habemus Blog (Again)"
+title: "🖖🏽 Habemus Blog (Again)"
 subtitle: "Motivation for my blog after re-reading a blog post by Rachel Thomas"
 date: 2021-07-10
 description: About the beneficial effects of having a blog.

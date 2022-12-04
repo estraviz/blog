@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "🖖 Hello World! (Revisited)"
+title: "🖖🏽 Hello World! (Revisited)"
 description: "I could say this is the official Hello World entry."
 categories: [Thoughts]
 comments: false

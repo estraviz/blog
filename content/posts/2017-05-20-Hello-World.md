@@ -1,5 +1,5 @@
 ---
-title: "👋 Hello World!"
+title: "🖖🏽 Hello World!"
 description: "¿De qué va esto? / What's this all about?"
 categories: [Thoughts]
 comments: false
