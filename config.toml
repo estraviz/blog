@@ -51,7 +51,7 @@ weight = 4
   colortheme = "dark" # dark, light, white, or classic
   rss = true # generate rss feed. default value is false
   googleAnalyticsAsync = false # use asynchronous tracking. Synchronous tracking by default
-  showAllPostsArchive = false # default
+  showAllPostsArchive = true # default
 
   # Home page settings
   description = "Personal blog of `Javier Estraviz`. Tech stuff and personal thoughts, mainly."
