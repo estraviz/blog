@@ -1,5 +1,5 @@
 ---
-title: "Hello World!"
+title: "👋 Hello World!"
 description: "¿De qué va esto? / What's this all about?"
 categories: [Thoughts]
 comments: false
@@ -15,7 +15,7 @@ This is my first post of the new blog. I hope my intentions to keep this blog al
 
 Las entradas al blog serán indistintamente en español o en inglés. Dependerá del momento :)
 
-Saludos!
+_Saludos!_ {{< awesome fa fa-hand-spock >}}
 
 \-\-\-
 
@@ -23,4 +23,4 @@ _\[Update\]: I have decided to create my posts in English now. I think it may be
 
 **Sin embargo**, _para entradas de carácter personal, reflexiones si las hubiera o similares, es bastante posible que mantenga el español como idioma del post._
 
-_Regards!_
+_Regards!_ {{< awesome fa fa-hand-spock >}}

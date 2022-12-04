@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Enterprise Software with Python"
+title: "📝 Enterprise Software with Python"
 description: "A course and a talk about Python in the Entreprise."
-category: Backend Development
+categories: [Tech]
 comments: true
 tags: [Python, Mahmoud Hashemi, PyBay]
 date: 2017-08-22T00:39:00+02:00
@@ -12,7 +12,7 @@ date: 2017-08-22T00:39:00+02:00
 _N.B.: blog entry originally posted in my previous blog, still available [here](https://estraviz.github.io/estraviz2017/backend%20development/Enterprise-Software-with-Python/)._
 ***
 
-I have just completed [this course](https://www.safaribooksonline.com/library/view/enterprise-software-with/9781491943755/ "Enterprise Software with Python") thanks to my corporate subscription to [**SafariBooksOnline**](https://www.safaribooksonline.com/) (_thanks again, StubHub_). One of those courses that can be reviewed without being in front of a laptop. So, no much code (only one small application with some detail) but a good introduction to the use of Python in the corporate world. The course is taught by [**Mahmoud Hashemi**](https://github.com/mahmoud), a lead developer of Python Infrastructure at PayPal.
+I have just completed [this course](https://www.safaribooksonline.com/library/view/enterprise-software-with/9781491943755/ "Enterprise Software with Python") thanks to my corporate subscription to [**SafariBooksOnline**](https://www.safaribooksonline.com/) (_thanks again, StubHub_). One of those courses that can be reviewed without being in front of a laptop. So, no much code (only one small application with some detail) but a good introduction to the use of Python in the corporate world. The course is taught by [**Mahmoud Hashemi**](https://github.com/mahmoud), a lead developer of Python Infrastructure at [{{< awesome fab fa-paypal >}} PayPal](https://www.paypal.com/).
 
 I have enjoyed watching it and would recommend for a shallow introduction to Python, as the course is quite easy to follow for somebody with basic knowledge in programming in general, or maybe for one that has had scarce contact with this programming language and wants to know the possibilities of it from an experienced engineer of a top company.
 
@@ -22,10 +22,10 @@ For a good aproximation to one of the subsections of the course, the one regardi
 
 >This talk provides an end-to-end introduction and overview of Python performance practices, from fundamentals to functional industry practices to the future of performant Python. If you've ever felt lost in or out of touch with the constant whirl of Python performance advancements, this practical talk will put it back into perspective.
 
-The aforementioned YouTube video can be found here:
+The aforementioned [{{< awesome fab fa-youtube >}} YouTube](https://www.youtube.com/watch?v=Dgnp28Ijm_M) video can be found here:
 
 ***
 {{< youtube Dgnp28Ijm_M >}}
 ***
 
-_Regards!_
+_Regards!_ {{< awesome fa fa-hand-spock >}}

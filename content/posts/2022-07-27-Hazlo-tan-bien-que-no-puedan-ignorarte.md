@@ -1,5 +1,5 @@
 ---
-title: "Hazlo Tan Bien Que No Puedan Ignorarte (Cal Newport, 2012)"
+title: "📚 Hazlo Tan Bien Que No Puedan Ignorarte (Cal Newport, 2012)"
 date: 2022-07-30
 description: Por qué ser competente importa más que la pasión para alcanzar el trabajo de tus sueños.
 categories: [Book Reviews]
@@ -49,7 +49,7 @@ Otras ideas que subraya el autor:
 
 ## El caso de Steve Jobs
 
-El caso más conocido que describe es el de [Steve Jobs](https://www.wikiwand.com/es/Steve_Jobs), del que sugiere que mejor "hagamos lo que él hizo y no lo que dijo", en referencia a una conocida [charla suya](https://www.youtube.com/watch?v=hXXwFG3_x2g). En sus comienzos en la universidad, Jobs no tenía muy claro a qué dedicarse. Sin embargo, en cuanto se le presentó una oportunidad de negocio, se involucró de lleno y acabó desarrollando una carrera de grandes éxitos (y algún [sonado fracaso](https://www.heraldousa.com/tendencias/2022/3/2/por-que-despidieron-steve-jobs-de-apple-en-1985-20820.html)🤔), lo que le convirtió en uno de los gurús tecnológicos de nuestro tiempo.
+El caso más conocido que describe es el de [Steve Jobs](https://www.wikiwand.com/es/Steve_Jobs), cofundador de [{{< awesome fab fa-apple >}} Apple](https://www.apple.com/), del que sugiere que mejor "hagamos lo que él hizo y no lo que dijo", en referencia a una conocida [charla suya](https://www.youtube.com/watch?v=hXXwFG3_x2g). En sus comienzos en la universidad, Jobs no tenía muy claro a qué dedicarse. Sin embargo, en cuanto se le presentó una oportunidad de negocio, se involucró de lleno y acabó desarrollando una carrera de grandes éxitos (y algún [sonado fracaso](https://www.heraldousa.com/tendencias/2022/3/2/por-que-despidieron-steve-jobs-de-apple-en-1985-20820.html)), lo que le convirtió en uno de los gurús tecnológicos de nuestro tiempo.
 
 ## El efecto bola de nieve
 
@@ -57,7 +57,7 @@ Otra idea importante que deja el libro:
 
 - si uno trabaja durante tiempo para ser cada vez mejor en algo, ello desencadena un **efecto bola de nieve** o [**snowball effect**](https://en.wikipedia.org/wiki/Snowball_effect): a medida que vamos ganando habilidad en algo y mejoramos nuestras _skills_, nuestra _pasión_ por ello también crece.
 
-El libro de Newport se publicó en 2012, año en el que también tuvo lugar la charla que dio a empleados de Google, cuyo vídeo dejo a continuación.
+El libro de Newport se publicó en 2012, año en el que también tuvo lugar la charla que dio a empleados de [{{< awesome fab fa-google >}} Google](https://www.google.com/), cuyo vídeo dejo a continuación.
 
 ***
 {{< youtube qwOdU02SE0w >}}
@@ -65,7 +65,7 @@ El libro de Newport se publicó en 2012, año en el que también tuvo lugar la c
 
 Por cierto, el título está sacado de una frase del actor norteamericano [**Steve Martin**](https://www.wikiwand.com/es/Steve_Martin) ([video](https://www.youtube.com/watch?v=teAvv6jnuXY)). Si no conoces nada acerca de Steve Martin, te sugiero que le des una lectura al link anterior y te toparás con un tipo con una vida muy interesante.
 
-_Saludos!_
+_Saludos!_ {{< awesome fa fa-hand-spock >}}
 
 [^1]: Versión española: [_Newport, C. (2017). Hazlo tan bien que no puedan ignorarte: por qué ser competente importa más que la pasión para alcanzar el trabajo de tus sueños (D. Pereda Sancho, Trans.). Asertos._](https://amzn.to/3bet5X4)
 [^2]: Versión inglesa: [_Newport, C. (2016). So good they can't ignore you : why skills trump passion in the quest for work you love. Piatkus._](https://amzn.to/3BrQ9fL)

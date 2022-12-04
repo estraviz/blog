@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Deliberate Learning"
+title: "📝 Deliberate Learning"
 description: "About dojos, katas, koans and learning."
 categories: [Tech]
 tags: [Dan North, Zed Shaw, Learning]
@@ -18,13 +18,13 @@ First, I have to say that I've enjoyed it quite a bit, probably because the spea
 
 I can not disagree at all with Dan, although in my opinion the _kata_ seems to me an interesting approach, sometimes useful to improve certain skills as a programmer. Anyway, complementary with what is discussed below...
 
-North states that it is more useful for him to seek to maximize the discovery and expressly talks about [_koans_](https://es.wikipedia.org/wiki/K%C5%8Dan), questions or problems with impossible or ambiguous or not very clear answer. One learns much more in the process of trying to answer the question, than by knowing the answer itself. What I have also liked (and has confirmed my suspicions) is that it has referenced the work of [**Zed Shaw**](https://zedshaw.com/about/), [_Learn Python 3 the Hard Way_](https://learnpythonthehardway.org/). This work has a free web version as well as a book of the same name, and it seems that the objective of the author (Zed Shaw) is to pose a problem and only provide the reader enough information (and no more) to solve it. A challenge. Also, a book I'm adding to [my Amazon's wishlist](http://www.amazon.es/registry/wishlist/2LHNCDY7WK8TK/ref=cm_sw_r_tw_ws_x_6kRzzbNJCSKRH) 😉 and that has seen the light in this version a few days ago (_a future purchase for me!_).
+North states that it is more useful for him to seek to maximize the discovery and expressly talks about [_koans_](https://es.wikipedia.org/wiki/K%C5%8Dan), questions or problems with impossible or ambiguous or not very clear answer. One learns much more in the process of trying to answer the question, than by knowing the answer itself. What I have also liked (and has confirmed my suspicions) is that it has referenced the work of [**Zed Shaw**](https://zedshaw.com/about/), [_Learn Python 3 the Hard Way_](https://learnpythonthehardway.org/). This work has a free web version as well as a book of the same name, and it seems that the objective of the author (Zed Shaw) is to pose a problem and only provide the reader enough information (and no more) to solve it. A challenge. Also, a book I'm adding to my wishlist on [{{< awesome fab fa-amazon >}} Amazon](http://www.amazon.es/registry/wishlist/2LHNCDY7WK8TK/ref=cm_sw_r_tw_ws_x_6kRzzbNJCSKRH) and that has seen the light in this version a few days ago (_a future purchase for me!_).
 
 ![](/images/learn-python-3-the-hard-way.jpg)
 
 Finally, one of the last questions that Dan North left to the audience is this:
 
-> _"How do I know what is the most useful thing I should learn next?" --Dan North_
+> {{< awesome fa fa-quote-right >}} _How do I know what is the most useful thing I should learn next?_
 
 Someone from the audience attending the conference has given the key: **Learn to learn**. Well, in that path we are now...
 
@@ -32,4 +32,4 @@ Someone from the audience attending the conference has given the key: **Learn to
 {{< youtube SPj-23z-hQA >}}
 ***
 
-_Regards!_
+_Regards!_ {{< awesome fa fa-hand-spock >}}

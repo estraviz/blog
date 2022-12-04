@@ -1,5 +1,5 @@
 ---
-title: "Domain-Driven Design Distilled"
+title: "📝 Domain-Driven Design Distilled"
 description: "My first course completed through Safari Books Online."
 categories: [Tech]
 tags: [Domain-Driven Design, Eric Evans, Vaughn Vernon]
@@ -31,4 +31,4 @@ To conclude, here we have an extract from the explanation of what is DDD, which 
 >
 > _Domain-driven design is not a technology or a methodology. DDD provides a structure of practices and terminology for making design decisions that focus and accelerate software projects dealing with complicated domains._
 
-_Regards!_
+_Regards!_ {{< awesome fa fa-hand-spock >}}
