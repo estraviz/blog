@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Becoming a better programmer"
+title: "📝 Becoming a better programmer"
 description: "A manual for people who care about the code."
 categories: [Tech]
 tags: [Dunning-Kruger effect, Dreyfus model, Peter Goodliffe, Malcolm Gladwell]
@@ -16,7 +16,7 @@ Today I will leave here an entry about the 2015 conference by [**Peter Goodliffe
 
 ![](/images/becoming-a-better-programmer.jpg)
 
-This time, first the video and then some notes on it:
+This time, first the video on [{{< awesome fab fa-youtube >}} YouTube](https://www.youtube.com/watch?v=85fXs6cQETQ) and then some notes on it:
 
 ***
 {{< youtube 85fXs6cQETQ >}}
@@ -24,7 +24,7 @@ This time, first the video and then some notes on it:
 
 I have to confess that although the message and purpose of the talk fit with what I expected to hear, after completing the visualization I was not too enthusiastic. However, I emphasize the idea that Peter strives to make clear:
 
-> _"It's all about ATTITUDE." --Peter Goodliffe_
+> {{< awesome fa fa-quote-right >}} _It's all about ATTITUDE._
 
 The attitude is determinant in the professional career (and in life), also for a programmer. The 46 minutes of talk have also served to discuss topics related to learning models:
 
@@ -41,4 +41,4 @@ The attitude is determinant in the professional career (and in life), also for a
 
 That said, an interesting video but... I expected it better.
 
-_Regards!_
+_Regards!_ {{< awesome fa fa-hand-spock >}}

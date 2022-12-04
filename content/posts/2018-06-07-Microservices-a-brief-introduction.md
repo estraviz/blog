@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Microservices, a very brief introduction"
+title: "📝 Microservices, a very brief introduction"
 description: "An introductory talk about microservices, by Martin Fowler."
 categories: [Tech]
 comments: true
@@ -56,7 +56,7 @@ Really convincing arguments to abandon the monolith path that soon turns into a 
 
 For further reference, see also [this article](https://martinfowler.com/articles/microservices.html) from Mr. Fowler (and recommended in the video).
 
-_Regards!_
+_Regards!_ {{< awesome fa fa-hand-spock >}}
 
 [^1]: _Martin Fowler works at [**ThoughtWorks**](https://www.thoughtworks.com/) (June, 2018)._
 [^2]: _This is currently a matter of active discussion in the company of a good friend of mine (that I'm not going to mention here, sorry)._

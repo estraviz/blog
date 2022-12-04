@@ -1,0 +1,29 @@
+{
+  "list": [
+    {
+      "name": "🥋 Codewars katas",
+      "url": "https://github.com/estraviz/codewars",
+      "desc": "My solutions to codewars.com katas"
+    },
+    {
+      "name": "🤸‍♀️ Pybites exercises",
+      "url": "https://github.com/estraviz/pybites-exercises",
+      "desc": "My solutions to PyBites CodeChalleng.es"
+    },
+    {
+      "name": "❓ Leetcode problems",
+      "url": "https://github.com/estraviz/leetcode",
+      "desc": "My solutions to the problems in leetcode.com"
+    },
+    {
+      "name": "🧮 Exercism tracks",
+      "url": "https://github.com/estraviz/exercism",
+      "desc": "My solutions to the exercises proposed in exercism.org tracks"
+    },
+    {
+      "name": "🛠️ Datacamp projects",
+      "url": "https://github.com/estraviz/Datacamp-Projects",
+      "desc": "My solutions to some projects in Datacamp"
+    }
+  ]
+}

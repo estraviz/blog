@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Asynchronous Python for the Complete Beginner"
+title: "📝 Asynchronous Python for the Complete Beginner"
 description: "Introductory talk on asynchronous programming in Python."
 categories: [Tech]
 tags: [Asyncio, Miguel Grinberg, PyCon, Python]
@@ -18,12 +18,12 @@ Going on with the "experiment" that I started yesterday I've just seen this talk
 
 Link to the video:
 
-> [Miguel Grinberg Asynchronous Python for the Complete Beginner PyCon 2017](https://www.youtube.com/watch?v=iG6fr81xHKA)[^1]
+> [Miguel Grinberg Asynchronous Python for the Complete Beginner PyCon 2017](https://www.youtube.com/watch?v=iG6fr81xHKA) [^1]
 
 The talk is not too long and has an introductory level, but fine for one who is not familiar with _asynchronous Python programming_. From here, there is a long way to go if one is interested in these topics. In my case, to go deeper some time later, not at the moment.
 
 See [asyncio](https://docs.python.org/3/library/asyncio.html) for a more technical detail on this module.
 
-_Regards!_
+_Regards!_ {{< awesome fa fa-hand-spock >}}
 
 [^1]: Playback on other websites has been disabled by the video owner.

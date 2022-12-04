@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Cracking the Data Science Interview"
+title: "📝 Cracking the Data Science Interview"
 description: "A good introduction to prepare for DS Interviews."
 categories: [Tech]
 comments: true
@@ -31,10 +31,10 @@ The course is structured in these areas:
 
 I've found particularly useful the mock interviews, the section in which you can experience how this kind of processes take place and what kind of questions can be asked to the interviewee. In my case, not completeley new as I've been part of similar processes, then in the _IT Recruiter role_, up to not so long ago but from a different perspective.
 
-BTW, there's also a link in O'Reilly's page for this book, pointing to [this resource](http://www.galvanize.com/resources/the-data-scientists-guide-to-interviewing) that returns a _beautiful_ 404. Nevertheless, the additional resources that should be there can be reached [here](http://52.24.101.88/resources/the-data-scientists-guide-to-interviewing/), or similarly [here](https://github.com/hopelessoptimism/cracking-the-data-science-interview), at Jonathan's github account. Jonathan is also one of the instructors of the [_Data Visualization and D3.js_](https://www.udacity.com/course/data-visualization-and-d3js--ud507) free course by Udacity, a course that I should add to [**my personal Data Science roadmap**](https://github.com/estraviz/data-science-roadmap), in the "Data Visualization and Reporting" section.
+BTW, there's also a link in O'Reilly's page for this book, pointing to [this resource](http://www.galvanize.com/resources/the-data-scientists-guide-to-interviewing) that returns a _beautiful_ 404. Nevertheless, the additional resources that should be there can be reached [here](http://52.24.101.88/resources/the-data-scientists-guide-to-interviewing/), or similarly [here](https://github.com/hopelessoptimism/cracking-the-data-science-interview), at Jonathan's github account. Jonathan is also one of the instructors of the [_Data Visualization and D3.js_](https://www.udacity.com/course/data-visualization-and-d3js--ud507) free course by Udacity, a course that I should add to my personal [{{< awesome fab fa-github >}} **Data Science roadmap**](https://github.com/estraviz/data-science-roadmap), in the "Data Visualization and Reporting" section.
 
 Nice course, as if you were watching a TED Talk, but a bit longer and with many insights to note down.
 
-_Regards!_
+_Regards!_ {{< awesome fa fa-hand-spock >}}
 
 [^1]: _Katie Kent currently works as a Product Manager at [**Flexport**](https://www.flexport.com/) (August, 2017)._
