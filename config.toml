@@ -95,3 +95,6 @@ weight = 4
   [[params.social]]
     name = "twitter"
     link = "https://twitter.com/estraviz/"
+  [[params.social]]
+    name = "mastodon"
+    link = "https://fosstodon.org/@estraviz"
