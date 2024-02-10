@@ -5,11 +5,19 @@ description: About Javier Estraviz
 type: about
 ---
 
-## Hello, World!
+## Hello, World
 
-My name is **`Javier Estraviz`** and I'm a **`Data Engineer`**. I am currently working for [👚**Lookiero**](https://lookiero.es/), the online Personal Shopper service, present in many European countries.
+My name is **`Javier Estraviz`** and I'm a **`Data Engineer`**.
 
-Previously, I was a `Technical Program Manager` at [**StubHub**](https://en.wikipedia.org/wiki/StubHub), an [{{< awesome fab fa-ebay >}}**eBay**](https://www.ebay.com/) company for many years. Before that I was the `IT Recruiter` of [**Ticketbis**](https://www.crunchbase.com/organization/ticketbis), the Spanish startup ticketing marketplace acquired by eBay in 2016. Back in the years I occupied various positions (from `Programmer` to `Team Lead`) in several consulting firms (_everybody has a past!_).
+I am currently working in [🔬 **Frontiers**](https://www.frontiersin.org/), the open access publisher of scientific journals (the 6th largest academic publisher and 3rd most-cited publisher, January 2024).
+
+Before that, I was working in [👚 **Lookiero**](https://lookiero.es/), also as a **`Data Engineer`**. Lookiero is the online Personal Shopper service, present in many European countries.
+
+Even before that, I was a `Technical Program Manager` at [🎟️ **StubHub**](https://en.wikipedia.org/wiki/StubHub), an [{{< awesome fab fa-ebay >}}**eBay**](https://www.ebay.com/) company for many years.
+
+Previously, I was the `IT Recruiter` of [🎫 **Ticketbis**](https://www.crunchbase.com/organization/ticketbis), the Spanish startup ticketing marketplace acquired by eBay in 2016.
+
+Back in the years I occupied various positions (from `Programmer` to `Team Lead`) in several 👔 consulting firms (_everybody has a past!_).
 
 ## Motivation
 
