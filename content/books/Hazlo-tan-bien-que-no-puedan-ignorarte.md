@@ -1,11 +1,13 @@
 ---
-title: "📚 Hazlo Tan Bien Que No Puedan Ignorarte (Cal Newport, 2012)"
+title: "📖 Hazlo Tan Bien Que No Puedan Ignorarte (Cal Newport, 2012)"
 date: 2022-07-30
 description: Por qué ser competente importa más que la pasión para alcanzar el trabajo de tus sueños.
 categories: [Book Reviews]
 comments: true
 tags: [Cal Newport, Steve Jobs, Steve Martin, Craftsmanship, Snowball Effect]
 ---
+
+# Hazlo Tan Bien Que No Puedan Ignorarte (Cal Newport, 2012)
 
 He leído un par de veces este libro [^1],[^2] de [**Cal Newport**](https://www.calnewport.com/), un libro que me ha gustado especialmente:
 

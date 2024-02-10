@@ -5,7 +5,11 @@ description: About Javier Estraviz
 type: about
 ---
 
-## Hello, World
+# Hello, World 🖖🏽
+
+Hi **$reader** (_imagine your fancy name here_ 😉), thank you for visiting my website!
+
+##  About me
 
 My name is **`Javier Estraviz`** and I'm a **`Data Engineer`**.
 

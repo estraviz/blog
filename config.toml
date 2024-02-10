@@ -26,18 +26,23 @@ url = "/til"
 weight = 3
 
 [[menu.main]]
+name = "📚 Books"
+url = "/books"
+weight = 4
+
+[[menu.main]]
 name = "🏷️ Tags"
 url = "/tags"
-weight = 4
+weight = 5
 
 [[menu.main]]
 name = "ℹ️ About"
 url = "/about"
-weight = 5
+weight = 6
 
 [markup]
   [markup.tableOfContents]
-    endLevel = 5
+    endLevel = 4
     ordered = false
     startLevel = 2
   [markup.highlight]
@@ -61,7 +66,7 @@ weight = 5
   # Home page settings
   description = "Personal blog of `Javier Estraviz`. Tech stuff and personal thoughts, mainly."
   mainSection = "posts" # your main section
-  showAllPostsOnHomePage = true # default
+  showAllPostsOnHomePage = false # default
   postsOnHomePage = 5 # this option will be ignored if showAllPostsOnHomePage is set to true
   tagsOverview = false # show tags overview by default.
   showProjectsList = true # show projects list by default (if projects data file exists).
