@@ -16,29 +16,19 @@ url = "/"
 weight = 1
 
 [[menu.main]]
-name = "🗄 Posts"
-url = "/posts"
+name = "📝 Blog"
+url = "/blog"
 weight = 2
 
 [[menu.main]]
-name = "💡 TIL"
-url = "/til"
+name = "🌱 Garden"
+url = "/garden"
 weight = 3
-
-[[menu.main]]
-name = "📚 Books"
-url = "/books"
-weight = 4
-
-[[menu.main]]
-name = "🏷️ Tags"
-url = "/tags"
-weight = 5
 
 [[menu.main]]
 name = "ℹ️ About"
 url = "/about"
-weight = 6
+weight = 4
 
 [markup]
   [markup.tableOfContents]
@@ -53,7 +43,7 @@ weight = 6
     lineNos = true
     lineNumbersInTable = false
     noClasses = true
-    style = "monokai"
+    style = "dracula"
     tabWidth = 4
 
 [params]
@@ -64,7 +54,7 @@ weight = 6
   showAllPostsArchive = true # default
 
   # Home page settings
-  description = "Personal blog of `Javier Estraviz`. Tech stuff and personal thoughts, mainly."
+  description = "Website of **`Javier Estraviz`**. Tech stuff and personal thoughts, mainly."
   mainSection = "posts" # your main section
   showAllPostsOnHomePage = false # default
   postsOnHomePage = 5 # this option will be ignored if showAllPostsOnHomePage is set to true

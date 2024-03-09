@@ -8,17 +8,13 @@ tags: [Data Science, Jonathan Dinu, Katie Kent]
 date: 2017-08-29
 ---
 
-***
-_N.B.: blog entry originally posted in my previous blog, still available [here](https://estraviz.github.io/estraviz2017/profession%20and%20career/Cracking-the-Data-Science-Interview/)._
-***
+# 📝 Cracking the Data Science Interview[^1]
 
-Another course from Safari Books that I've completed quickly: [_Cracking the Data Science Interview_](http://shop.oreilly.com/product/0636920039259.do "Cracking the Data Science Interview"). An easy following video series of just 2h 53 min by [**Jonathan Dinu**](http://hopelessoptimism.com/) and [**Katie Kent**](https://www.linkedin.com/in/katiekent/), directors of the Data Science programm at [**Galvanize, Inc**](http://www.galvanizeu.com/) when the course was recorded[^1]. Jonathan was one of the founders of [**Zipfian Academy**](https://www.crunchbase.com/organization/zipfian-academy#/entity), acquired by Galvanize in [November, 2014](http://blog.galvanize.com/galvanize-acquires-data-science-training-company-zipfian-academy/).
+Another course from Safari Books that I've completed quickly: [_Cracking the Data Science Interview_](http://shop.oreilly.com/product/0636920039259.do "Cracking the Data Science Interview"). An easy following video series of just 2h 53 min by [**Jonathan Dinu**](http://hopelessoptimism.com/) and [**Katie Kent**](https://www.linkedin.com/in/katiekent/), directors of the Data Science programm at [**Galvanize, Inc**](http://www.galvanizeu.com/) when the course was recorded[^2]. Jonathan was one of the founders of [**Zipfian Academy**](https://www.crunchbase.com/organization/zipfian-academy#/entity), acquired by Galvanize in [November, 2014](http://blog.galvanize.com/galvanize-acquires-data-science-training-company-zipfian-academy/).
 
 To better sense the purpose and content of the course, we can watch for free the following introduction:
 
-***
-{{< video "https://cdnsecakmi.kaltura.com/p/1681692/sp/168169200/serveFlavor/entryId/0_gy3qfe0h/v/12/flavorId/0_b4h7enq8/forceproxy/true/name/a.mp4" "Cracking the Data Science Interview" >}}
-***
+{{< video "<https://cdnsecakmi.kaltura.com/p/1681692/sp/168169200/serveFlavor/entryId/0_gy3qfe0h/v/12/flavorId/0_b4h7enq8/forceproxy/true/name/a.mp4>" "Cracking the Data Science Interview" >}}
 
 The course is structured in these areas:
 
@@ -35,6 +31,5 @@ BTW, there's also a link in O'Reilly's page for this book, pointing to [this res
 
 Nice course, as if you were watching a TED Talk, but a bit longer and with many insights to note down.
 
-_Regards!_ {{< awesome fa fa-hand-spock >}}
-
-[^1]: _Katie Kent currently works as a Product Manager at [**Flexport**](https://www.flexport.com/) (August, 2017)._
+[^1]: Originally posted [here](https://estraviz.github.io/estraviz2017/profession%20and%20career/Cracking-the-Data-Science-Interview/).
+[^2]: Katie Kent currently works as a Product Manager at [**Flexport**](https://www.flexport.com/) (August, 2017).

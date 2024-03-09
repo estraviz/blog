@@ -8,9 +8,7 @@ comments: true
 date: 2017-07-12
 ---
 
-***
-_N.B.: blog entry originally posted in my previous blog, still available [here](https://estraviz.github.io/estraviz2017/profession%20and%20career/Deliberate-Learning/)._
-***
+# 📝 Deliberate Learning[^1]
 
 Second video recommended by my colleague _and [stubber](https://www.stubhub.com/about-us/) friend_ [**Alvaro Salazar**](https://twitter.com/xala3pa).
 
@@ -24,12 +22,12 @@ North states that it is more useful for him to seek to maximize the discovery an
 
 Finally, one of the last questions that Dan North left to the audience is this:
 
-> {{< awesome fa fa-quote-right >}} _How do I know what is the most useful thing I should learn next?_
+> {{< awesome fa fa-quote-right >}} _**How do I know what is the most useful thing I should learn next?**_
+>
+> --Dan North
 
 Someone from the audience attending the conference has given the key: **Learn to learn**. Well, in that path we are now...
 
-***
 {{< youtube SPj-23z-hQA >}}
-***
 
-_Regards!_ {{< awesome fa fa-hand-spock >}}
+[^1]: Originally posted [here](https://estraviz.github.io/estraviz2017/profession%20and%20career/Deliberate-Learning/).

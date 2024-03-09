@@ -6,9 +6,7 @@ tags: [Domain-Driven Design, Eric Evans, Vaughn Vernon]
 date: 2017-07-07
 ---
 
-***
-_N.B.: blog entry originally posted in my previous blog, still available [here](https://estraviz.github.io/estraviz2017/software%20design/DDD-Distilled/)._
-***
+# 📝 Domain-Driven Design Distilled[^1]
 
 I currently have unlimited access to an enormous amount of books and videos through [safaribooksonline](https://www.safaribooksonline.com/). The paradise for anyone interested in software development. So, days ago, I thought of downloading a "light" videocourse that I could follow while commuting to work by tube. This [_Domain-Driven Design Distilled_](https://www.safaribooksonline.com/library/view/domain-driven-design-distilled/9780134593449/) is not exactly light in content, but at least I do not need to be in front of a code editor to follow.
 
@@ -31,4 +29,4 @@ To conclude, here we have an extract from the explanation of what is DDD, which 
 >
 > _Domain-driven design is not a technology or a methodology. DDD provides a structure of practices and terminology for making design decisions that focus and accelerate software projects dealing with complicated domains._
 
-_Regards!_ {{< awesome fa fa-hand-spock >}}
+[^1]: Originally posted [here](https://estraviz.github.io/estraviz2017/software%20design/DDD-Distilled/).

@@ -8,9 +8,7 @@ tags: [Python, Mahmoud Hashemi, PyBay]
 date: 2017-08-22T00:39:00+02:00
 ---
 
-***
-_N.B.: blog entry originally posted in my previous blog, still available [here](https://estraviz.github.io/estraviz2017/backend%20development/Enterprise-Software-with-Python/)._
-***
+# 📝 Enterprise Software with Python[^1]
 
 I have just completed [this course](https://www.safaribooksonline.com/library/view/enterprise-software-with/9781491943755/ "Enterprise Software with Python") thanks to my corporate subscription to [**SafariBooksOnline**](https://www.safaribooksonline.com/) (_thanks again, StubHub_). One of those courses that can be reviewed without being in front of a laptop. So, no much code (only one small application with some detail) but a good introduction to the use of Python in the corporate world. The course is taught by [**Mahmoud Hashemi**](https://github.com/mahmoud), a lead developer of Python Infrastructure at [{{< awesome fab fa-paypal >}} PayPal](https://www.paypal.com/).
 
@@ -24,8 +22,6 @@ For a good aproximation to one of the subsections of the course, the one regardi
 
 The aforementioned [{{< awesome fab fa-youtube >}} YouTube](https://www.youtube.com/watch?v=Dgnp28Ijm_M) video can be found here:
 
-***
 {{< youtube Dgnp28Ijm_M >}}
-***
 
-_Regards!_ {{< awesome fa fa-hand-spock >}}
+[^1]: Originally posted [here](https://estraviz.github.io/estraviz2017/backend%20development/Enterprise-Software-with-Python/).

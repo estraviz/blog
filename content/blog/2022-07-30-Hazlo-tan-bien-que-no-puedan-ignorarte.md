@@ -1,5 +1,5 @@
 ---
-title: "📖 Hazlo Tan Bien Que No Puedan Ignorarte (Cal Newport, 2012)"
+title: "📖 Hazlo Tan Bien Que No Puedan Ignorarte (Newport, 2012)"
 date: 2022-07-30
 description: Por qué ser competente importa más que la pasión para alcanzar el trabajo de tus sueños.
 categories: [Book Reviews]
@@ -7,7 +7,7 @@ comments: true
 tags: [Cal Newport, Steve Jobs, Steve Martin, Craftsmanship, Snowball Effect]
 ---
 
-# Hazlo Tan Bien Que No Puedan Ignorarte (Cal Newport, 2012)
+# 📚 Hazlo Tan Bien Que No Puedan Ignorarte (Newport, 2012)
 
 He leído un par de veces este libro [^1],[^2] de [**Cal Newport**](https://www.calnewport.com/), un libro que me ha gustado especialmente:
 
@@ -61,13 +61,9 @@ Otra idea importante que deja el libro:
 
 El libro de Newport se publicó en 2012, año en el que también tuvo lugar la charla que dio a empleados de [{{< awesome fab fa-google >}} Google](https://www.google.com/), cuyo vídeo dejo a continuación.
 
-***
 {{< youtube qwOdU02SE0w >}}
-***
 
 Por cierto, el título está sacado de una frase del actor norteamericano [**Steve Martin**](https://www.wikiwand.com/es/Steve_Martin) ([video](https://www.youtube.com/watch?v=teAvv6jnuXY)). Si no conoces nada acerca de Steve Martin, te sugiero que le des una lectura al link anterior y te toparás con un tipo con una vida muy interesante.
-
-_Saludos!_ {{< awesome fa fa-hand-spock >}}
 
 [^1]: Versión española: [_Newport, C. (2017). Hazlo tan bien que no puedan ignorarte: por qué ser competente importa más que la pasión para alcanzar el trabajo de tus sueños (D. Pereda Sancho, Trans.). Asertos._](https://amzn.to/3bet5X4)
 [^2]: Versión inglesa: [_Newport, C. (2016). So good they can't ignore you : why skills trump passion in the quest for work you love. Piatkus._](https://amzn.to/3BrQ9fL)

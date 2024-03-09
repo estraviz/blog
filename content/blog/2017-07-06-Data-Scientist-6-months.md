@@ -8,9 +8,7 @@ comments: true
 date: 2017-07-06
 ---
 
-***
-_N.B.: blog entry originally posted in my previous blog, still available [here](https://estraviz.github.io/estraviz2017/profession%20and%20career/Data-Scientist-6-months/)._
-***
+# 📝 How to become a Data Scientist in 6 months[^1]
 
 Very _inspirational_ this talk presented in the [PyData London 2016](https://pydata.org/london2016/). In it, [**Tetiana Ivanova**](https://twitter.com/eoly23) describes her move from a position of Project Manager (_possibly similar to mine at present time..._) to one of Data Scientist.
 
@@ -18,14 +16,10 @@ She begins to talk about the "bubble" that education has undergone during the la
 
 Now, the video on [{{< awesome fab fa-youtube >}} YouTube](https://www.youtube.com/watch?v=rIofV14c0tc):
 
-***
 {{< youtube rIofV14c0tc >}}
-***
 
 The slides of the talk are shown below (also available on [{{< awesome fab fa-slideshare>}} slideshare](https://www.slideshare.net/slideshow/embed_code/61987771)):
 
-***
 {{< slideshare id="61987771" >}}
-***
 
-_Regards!_ {{< awesome fa fa-hand-spock >}}
+[^1]: Originally posted [here](https://estraviz.github.io/estraviz2017/profession%20and%20career/Data-Scientist-6-months/).

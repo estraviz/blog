@@ -8,9 +8,7 @@ comments: true
 date: 2017-07-11
 ---
 
-***
-_N.B.: blog entry originally posted in my previous blog, still available [here](https://estraviz.github.io/estraviz2017/software%20design/SOLID-OO-Design/)._
-***
+# 📝 SOLID Object-Oriented Design[^1]
 
 I have been commenting with _my colleague_ [**Alvaro Salazar**](https://twitter.com/xala3pa)) that I will try to see a more or less technical talk every day, usually related to Software Development, in general, and/or Data Science, in particular. Surely, there will be talks of greater depth, which will require me to dive into the complexities of the code. I do believe that it can be a good use of my time to listen to _inspirational_ people and ideas.
 
@@ -28,14 +26,12 @@ All the above principles revolve around managing properly the dependencies that 
 
 Now, the video on [{{< awesome fab fa-youtube >}} YouTube](https://www.youtube.com/watch?v=v-2yFMzxqwU):
 
-***
 {{< youtube v-2yFMzxqwU>}}
-***
 
 Finally, I will take this sentence from Sandi:
 
->{{< awesome fa fa-quote-right >}} _If your project succeeds, it will continue to cost you money._
+>{{< awesome fa fa-quote-right >}} _**If your project succeeds, it will continue to cost you money.**_
+>
+>--Sandi Metz
 
-_Regards!_ {{< awesome fa fa-hand-spock >}}
-
-
+[^1]: Originally posted [here](https://estraviz.github.io/estraviz2017/software%20design/SOLID-OO-Design/).
