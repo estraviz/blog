@@ -3,7 +3,7 @@ languageCode = "es"
 title = "TheDataIsFlat.com"
 theme = "cactus"
 copyright = "" # cactus will use title if copyright is not set
-disqusShortname = "example" # Used when comments is enabled. Cactus will use site title if not set
+disqusShortname = "thedataisflat" # Used when comments is enabled. Cactus will use site title if not set
 googleAnalytics = "G-SVEL7H3GGL"
 
 
@@ -71,7 +71,7 @@ weight = 4
 
   [params.comments]
     enabled = true # default
-    engine = "utterances" # only disqus, utterances, and cactus_comments is supported
+    engine = "disqus" # only disqus, utterances, and cactus_comments is supported
     [params.comments.utterances]
       repo = "estraviz/blog-comments"
       label = "thedataisflat" # you can use however you want to label your name in your repo's issues
