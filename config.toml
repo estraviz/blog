@@ -12,23 +12,18 @@ googleAnalytics = "G-SVEL7H3GGL"
 # Main menu which appears below site header.
 [[menu.main]]
 name = "🏡 Home"
-url = "/"
+url = "https://www.thedataisflat.com/"
 weight = 1
 
 [[menu.main]]
 name = "📝 Blog"
-url = "/blog"
+url = "https://www.thedataisflat.com/Blog/2024/2024-03-28-Free-your-mind"
 weight = 2
 
 [[menu.main]]
-name = "🌱 Garden"
-url = "/garden"
-weight = 3
-
-[[menu.main]]
 name = "ℹ️ About"
-url = "/about"
-weight = 4
+url = "https://www.thedataisflat.com/About/about-me"
+weight = 3
 
 [markup]
   [markup.tableOfContents]
@@ -56,7 +51,7 @@ weight = 4
   # Home page settings
   description = "Website of **`Javier Estraviz`**. Tech stuff and personal thoughts, mainly."
   mainSection = "posts" # your main section
-  showAllPostsOnHomePage = false # default
+  showAllPostsOnHomePage = true # default
   postsOnHomePage = 5 # this option will be ignored if showAllPostsOnHomePage is set to true
   tagsOverview = false # show tags overview by default.
   showProjectsList = true # show projects list by default (if projects data file exists).
